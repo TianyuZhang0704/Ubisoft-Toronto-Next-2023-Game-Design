@@ -1,4 +1,4 @@
-![image](https://github.com/TianyuZhang0704/Ubisoft-Toronto-Next-2023-Game-Design/assets/77383276/abb836dd-3f09-4aca-853e-029648ffd05a)# Ubisoft Toronto Next 2023 Game Design
+# Ubisoft Toronto Next 2023 Game Design
 
 Ubisoft Toronto Next 2023 Game Design Finalist. Detailed documents see `Creative_Brief.pdf`, `DetailedDesign_GD-44.pdf`, and `Final Presentation.pdf`.
 
